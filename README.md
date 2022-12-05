@@ -9,3 +9,5 @@ Day 2 [X] - Added a day late. Answer checked and works. The solution is not the 
 Day 3 [X] - Done in time. Answers checked. Pretty fun one not gonna lie.
 
 Day 4 [X] - Done and early at that! Answers check out. This one right up my alley since splitting strings is something I find quite enjoyable.
+
+Day 5 [X] - Done a bit late (at least in my time zone). This one was a hassle, not because it's difficult but because the whole day was a scheduling disaster. Anyway - onto the next challenge.
