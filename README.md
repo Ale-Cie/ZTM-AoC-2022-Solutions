@@ -13,3 +13,5 @@ Day 4 [X] - Done and early at that! Answers check out. This one right up my alle
 Day 5 [X] - Done a bit late (at least in my time zone). This one was a hassle, not because it's difficult but because the whole day was a scheduling disaster. Anyway - onto the next challenge.
 
 Day 6 [X] - Completed well within a time limit. Nice one, simple and fun to complete. Decided to do it with sets, since they make working with unique characters a breeze.
+
+Day 7 [X] - Completed few hours past midnight. That one confused me for a long time, the first part at least. Couldn't figure out how to add up the file sizes...
