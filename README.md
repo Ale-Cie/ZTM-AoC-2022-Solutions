@@ -15,3 +15,7 @@ Day 5 [X] - Done a bit late (at least in my time zone). This one was a hassle, n
 Day 6 [X] - Completed well within a time limit. Nice one, simple and fun to complete. Decided to do it with sets, since they make working with unique characters a breeze.
 
 Day 7 [X] - Completed few hours past midnight. That one confused me for a long time, the first part at least. Couldn't figure out how to add up the file sizes...
+
+Day 8 [X] - Done, but due to work obligations could not be finished in time for day 8. I think the instructions could've been written a bit better, but none the less the program works so I'm happy.
+
+Day 9 [ ] - WIP
