@@ -18,4 +18,6 @@ Day 7 [X] - Completed few hours past midnight. That one confused me for a long t
 
 Day 8 [X] - Done, but due to work obligations could not be finished in time for day 8. I think the instructions could've been written a bit better, but none the less the program works so I'm happy.
 
-Day 9 [ ] - WIP
+Day 9 [X] - Again, work obligations made me publish this solution late. Weird, it wasn't that hard in the end but it gave me some trouble after all.
+
+Day 10 [] - WIP
