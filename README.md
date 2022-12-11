@@ -21,3 +21,5 @@ Day 8 [X] - Done, but due to work obligations could not be finished in time for 
 Day 9 [X] - Again, work obligations made me publish this solution late. Weird, it wasn't that hard in the end but it gave me some trouble after all.
 
 Day 10 [X] - Done, with time to spare. Isn't it great when it's the weekend and you don't have to worry about work? This day of AoC was really fun to work with. Bit tricky but rewarding in the end
+
+Day 11 [X] - Well if it wasn't for people (more specifically memers) of reddit I wouldn't have guessed to make the large modulus solution. Other than that the code was my doing, this was a relatively simple task. Thanks again reddit.
